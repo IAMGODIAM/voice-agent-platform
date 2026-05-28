@@ -1,0 +1,26 @@
+{
+  "created": "2026-05-28T02:12:25.118696",
+  "anchor_videos": [
+    "9Gb2FpMipb4",
+    "tymBGoS8s7Q"
+  ],
+  "mixed_videos": [
+    "d_qcnkJMGCs",
+    "Aa1VzczMPl4"
+  ],
+  "n_anchor_segments": 1871,
+  "results": {
+    "d_qcnkJMGCs": {
+      "kept": 481,
+      "rejected": 3,
+      "total": 484
+    },
+    "Aa1VzczMPl4": {
+      "kept": 503,
+      "rejected": 3,
+      "total": 506
+    }
+  },
+  "total_israel_segments": 2855,
+  "threshold": 0.6
+}
