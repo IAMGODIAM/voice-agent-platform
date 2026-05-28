@@ -1,0 +1,36 @@
+{
+  "created": "2026-05-28T01:18:25.972461",
+  "source": "https://youtube.com/playlist?list=PL6uW6VOdHV2fTGk0wnIK3UMnZEa4zy0Eb",
+  "videos": [
+    {
+      "id": "tymBGoS8s7Q",
+      "url": "https://www.youtube.com/watch?v=tymBGoS8s7Q",
+      "title": "From Campaign to Movement: Organizing for Long-Term Truth, Justice, and LOVE! Step 1: Vision",
+      "duration": 6849,
+      "segments": 864
+    },
+    {
+      "id": "9Gb2FpMipb4",
+      "url": "https://www.youtube.com/watch?v=9Gb2FpMipb4",
+      "title": "From Campaign to Movement: Organizing for Long-Term Truth, Justice, and LOVE! Step 2: Integration",
+      "duration": 6685,
+      "segments": 1007
+    },
+    {
+      "id": "d_qcnkJMGCs",
+      "url": "https://www.youtube.com/watch?v=d_qcnkJMGCs",
+      "title": "Justice is Here Podcast",
+      "duration": 4059,
+      "segments": 484
+    },
+    {
+      "id": "Aa1VzczMPl4",
+      "url": "https://www.youtube.com/watch?v=Aa1VzczMPl4",
+      "title": "Justice is Here Podcast",
+      "duration": 3948,
+      "segments": 506
+    }
+  ],
+  "total_segments": 2861,
+  "total_duration_seconds": 16373.124299999998
+}

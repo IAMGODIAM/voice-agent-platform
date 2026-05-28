@@ -1,0 +1,511 @@
+{
+  "name": "israel_voice_csm",
+  "sample_rate": 16000,
+  "num_samples": 2861,
+  "total_bytes": 524163136,
+  "estimated_duration_seconds": 16376.164125,
+  "estimated_duration_minutes": 272.93606875,
+  "samples": [
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0000.wav",
+      "speaker": "israel",
+      "size_bytes": 71022
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0001.wav",
+      "speaker": "israel",
+      "size_bytes": 112718
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0002.wav",
+      "speaker": "israel",
+      "size_bytes": 105070
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0003.wav",
+      "speaker": "israel",
+      "size_bytes": 98062
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0004.wav",
+      "speaker": "israel",
+      "size_bytes": 183822
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0005.wav",
+      "speaker": "israel",
+      "size_bytes": 133582
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0006.wav",
+      "speaker": "israel",
+      "size_bytes": 121710
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0008.wav",
+      "speaker": "israel",
+      "size_bytes": 43886
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0009.wav",
+      "speaker": "israel",
+      "size_bytes": 53742
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0010.wav",
+      "speaker": "israel",
+      "size_bytes": 43310
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0011.wav",
+      "speaker": "israel",
+      "size_bytes": 104462
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0016.wav",
+      "speaker": "israel",
+      "size_bytes": 84302
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0017.wav",
+      "speaker": "israel",
+      "size_bytes": 47822
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0018.wav",
+      "speaker": "israel",
+      "size_bytes": 54318
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0020.wav",
+      "speaker": "israel",
+      "size_bytes": 46702
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0021.wav",
+      "speaker": "israel",
+      "size_bytes": 223726
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0023.wav",
+      "speaker": "israel",
+      "size_bytes": 133390
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0025.wav",
+      "speaker": "israel",
+      "size_bytes": 100942
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0026.wav",
+      "speaker": "israel",
+      "size_bytes": 44270
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0027.wav",
+      "speaker": "israel",
+      "size_bytes": 213358
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0029.wav",
+      "speaker": "israel",
+      "size_bytes": 38574
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0032.wav",
+      "speaker": "israel",
+      "size_bytes": 49934
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0033.wav",
+      "speaker": "israel",
+      "size_bytes": 72398
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0034.wav",
+      "speaker": "israel",
+      "size_bytes": 65070
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0035.wav",
+      "speaker": "israel",
+      "size_bytes": 34254
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0039.wav",
+      "speaker": "israel",
+      "size_bytes": 90862
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0040.wav",
+      "speaker": "israel",
+      "size_bytes": 45454
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0041.wav",
+      "speaker": "israel",
+      "size_bytes": 127502
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0042.wav",
+      "speaker": "israel",
+      "size_bytes": 42958
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0044.wav",
+      "speaker": "israel",
+      "size_bytes": 57070
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0047.wav",
+      "speaker": "israel",
+      "size_bytes": 110254
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0048.wav",
+      "speaker": "israel",
+      "size_bytes": 86286
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0050.wav",
+      "speaker": "israel",
+      "size_bytes": 40398
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0051.wav",
+      "speaker": "israel",
+      "size_bytes": 78318
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0052.wav",
+      "speaker": "israel",
+      "size_bytes": 82286
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0053.wav",
+      "speaker": "israel",
+      "size_bytes": 256654
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0054.wav",
+      "speaker": "israel",
+      "size_bytes": 62286
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0057.wav",
+      "speaker": "israel",
+      "size_bytes": 93742
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0058.wav",
+      "speaker": "israel",
+      "size_bytes": 112398
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0059.wav",
+      "speaker": "israel",
+      "size_bytes": 60430
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0060.wav",
+      "speaker": "israel",
+      "size_bytes": 60110
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0061.wav",
+      "speaker": "israel",
+      "size_bytes": 150286
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0062.wav",
+      "speaker": "israel",
+      "size_bytes": 52302
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0063.wav",
+      "speaker": "israel",
+      "size_bytes": 36846
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0064.wav",
+      "speaker": "israel",
+      "size_bytes": 135214
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0065.wav",
+      "speaker": "israel",
+      "size_bytes": 46510
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0066.wav",
+      "speaker": "israel",
+      "size_bytes": 88302
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0067.wav",
+      "speaker": "israel",
+      "size_bytes": 171918
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0069.wav",
+      "speaker": "israel",
+      "size_bytes": 140142
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0070.wav",
+      "speaker": "israel",
+      "size_bytes": 97038
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0071.wav",
+      "speaker": "israel",
+      "size_bytes": 70894
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0072.wav",
+      "speaker": "israel",
+      "size_bytes": 215566
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0074.wav",
+      "speaker": "israel",
+      "size_bytes": 122894
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0075.wav",
+      "speaker": "israel",
+      "size_bytes": 120878
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0076.wav",
+      "speaker": "israel",
+      "size_bytes": 181614
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0077.wav",
+      "speaker": "israel",
+      "size_bytes": 53710
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0079.wav",
+      "speaker": "israel",
+      "size_bytes": 33198
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0080.wav",
+      "speaker": "israel",
+      "size_bytes": 167694
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0081.wav",
+      "speaker": "israel",
+      "size_bytes": 229454
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0082.wav",
+      "speaker": "israel",
+      "size_bytes": 96302
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0083.wav",
+      "speaker": "israel",
+      "size_bytes": 133198
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0084.wav",
+      "speaker": "israel",
+      "size_bytes": 41326
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0085.wav",
+      "speaker": "israel",
+      "size_bytes": 95054
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0086.wav",
+      "speaker": "israel",
+      "size_bytes": 57070
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0088.wav",
+      "speaker": "israel",
+      "size_bytes": 70670
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0089.wav",
+      "speaker": "israel",
+      "size_bytes": 166926
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0090.wav",
+      "speaker": "israel",
+      "size_bytes": 60462
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0091.wav",
+      "speaker": "israel",
+      "size_bytes": 46190
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0093.wav",
+      "speaker": "israel",
+      "size_bytes": 38414
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0094.wav",
+      "speaker": "israel",
+      "size_bytes": 72078
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0095.wav",
+      "speaker": "israel",
+      "size_bytes": 131502
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0096.wav",
+      "speaker": "israel",
+      "size_bytes": 58574
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0097.wav",
+      "speaker": "israel",
+      "size_bytes": 53550
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0098.wav",
+      "speaker": "israel",
+      "size_bytes": 166062
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0099.wav",
+      "speaker": "israel",
+      "size_bytes": 69262
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0100.wav",
+      "speaker": "israel",
+      "size_bytes": 59918
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0101.wav",
+      "speaker": "israel",
+      "size_bytes": 104590
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0103.wav",
+      "speaker": "israel",
+      "size_bytes": 47278
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0104.wav",
+      "speaker": "israel",
+      "size_bytes": 60174
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0105.wav",
+      "speaker": "israel",
+      "size_bytes": 49422
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0106.wav",
+      "speaker": "israel",
+      "size_bytes": 93646
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0107.wav",
+      "speaker": "israel",
+      "size_bytes": 137326
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0108.wav",
+      "speaker": "israel",
+      "size_bytes": 34382
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0109.wav",
+      "speaker": "israel",
+      "size_bytes": 113838
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0110.wav",
+      "speaker": "israel",
+      "size_bytes": 108942
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0111.wav",
+      "speaker": "israel",
+      "size_bytes": 151438
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0112.wav",
+      "speaker": "israel",
+      "size_bytes": 65710
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0114.wav",
+      "speaker": "israel",
+      "size_bytes": 251022
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0115.wav",
+      "speaker": "israel",
+      "size_bytes": 94094
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0116.wav",
+      "speaker": "israel",
+      "size_bytes": 167086
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0117.wav",
+      "speaker": "israel",
+      "size_bytes": 32846
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0118.wav",
+      "speaker": "israel",
+      "size_bytes": 159566
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0119.wav",
+      "speaker": "israel",
+      "size_bytes": 134126
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0120.wav",
+      "speaker": "israel",
+      "size_bytes": 105518
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0121.wav",
+      "speaker": "israel",
+      "size_bytes": 60846
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0122.wav",
+      "speaker": "israel",
+      "size_bytes": 179822
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0125.wav",
+      "speaker": "israel",
+      "size_bytes": 46350
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0127.wav",
+      "speaker": "israel",
+      "size_bytes": 33326
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0128.wav",
+      "speaker": "israel",
+      "size_bytes": 57038
+    },
+    {
+      "path": "/home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments/9Gb2FpMipb4_001_0129.wav",
+      "speaker": "israel",
+      "size_bytes": 81454
+    }
+  ],
+  "note": "Full dataset: 2861 segments. Use all files in /home/user/hermes-workspace/voice-agent-platform/voice_data/israel/segments for training."
+}
